@@ -1,3 +1,5 @@
+my repository: https://github.com/JorgeSalgado0999/pacman.git
+
 Multithreaded Pacman Game
 =========================
 
